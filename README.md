@@ -7,3 +7,4 @@ A save button
 
 Clicking on the save button stores the time and user input in localStorage. Near the top of the calendar, the applicationis  displaying the current day. Additionally, each hour is color coded to reflect whether the time slot is in the past, the present, or the future. This will change depending on the time of day.I used the Moment.js library to work with date and time. I was triyng sure to read the documentation carefully and concentrate on using Moment.js in the browser.`
 
+Link to published application https://tomatoma891.github.io/dailyplanner/
